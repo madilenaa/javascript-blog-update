@@ -120,21 +120,25 @@ body {
 }
 
 .tag-size-5 {
-  font-size: 20px;
+  font-size: 36px;
 }
 
 .tag-size-4 {
-  font-size: 16px;
+  font-size: 26px;
 }
 
 .tag-size-3 {
-  font-size: 12px;
+  font-size: 22px;
 }
 
 .tag-size-2 {
-  font-size: 8px;
+  font-size: 18px;
 }
 
 .tag-size-1 {
-  font-size: 6px;
+  font-size: 12px;
+}
+
+.sidebar .tags li {
+  display: inline;
 }
